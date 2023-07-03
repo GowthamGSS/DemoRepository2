@@ -2,6 +2,4 @@ Hello
 Welcome 
 to my
 file
-please
-proceed 
-to find code
+
